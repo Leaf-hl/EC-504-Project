@@ -15,5 +15,6 @@ The system will return results with two methods: KD-Tree searching and linear sc
 - First Generate the executable file using `make` command and it will create a file called `main`
 - Then in the command line, type as following:
 ```shell
-main $latitude $longitude
+./main
+$latitude $longitude
 ```
